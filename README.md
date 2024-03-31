@@ -33,7 +33,7 @@
 
 
 ### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=althorstormblessed&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=althorstormblessed&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 ![My stats](https://github-readme-stats.vercel.app/api?username=althorstormblessed&show_icons=true&theme=dark)
 
 ### Connect with me:
