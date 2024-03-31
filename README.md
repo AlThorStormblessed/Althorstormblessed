@@ -33,4 +33,13 @@
 
 
 ### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=althorstormblessed&theme=dark&background=000000)](https://git.io/streak-stats);
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=althorstormblessed&theme=dark&background=000000)](https://git.io/streak-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=althorstormblessed&show_icons=true&theme=dark)
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/anshgudibanda/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
+</a>
+<a href="https://www.instagram.com/anshenyeager/">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
+</a>
