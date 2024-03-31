@@ -39,7 +39,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/anshgudibanda/">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
-</a>
-<a href="https://www.instagram.com/anshenyeager/">
+</a>  
+‎ ‎ ‎<a href="https://www.instagram.com/anshenyeager/">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
 </a>
