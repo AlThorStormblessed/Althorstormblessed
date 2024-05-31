@@ -3,9 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anshgudibanda/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.leetcode.com/anshgudibanda/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=gold" alt="Leetcode Badge"/></a>
+  <a href="https://www.linkedin.com/in/anshgudibanda/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  </a>    
+  <a href="https://www.leetcode.com/anshgudibanda/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=gold" alt="Leetcode Badge"/>  </a>    
   <a href="https://www.codechef.com/users/althorrand"><img src="https://img.shields.io/badge/Codechef-4F3126?style=for-the-badge&logo=codechef&logoColor=black" alt="Codechef Badge"/></a> <br />
+  <a href="https://codeforces.com/profile/althorrand_"><img src="https://img.shields.io/badge/Codeforces-2496F1?style=for-the-badge&logo=codeforces&logoColor=FF4437" alt="Codeforces Badge"/></a> <br />
+  
 
   <img src="https://komarev.com/ghpvc/?username=althorstormblessed&style=flat-square&color=blue" alt=""/>
 </div>
