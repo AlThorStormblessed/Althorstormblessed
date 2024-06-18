@@ -27,7 +27,7 @@
 
 ### About Me:
 
-- I am currently a sophomore in BTech at IIIT Una, Himachal Pradesh.
+- I am currently a junior in BTech in Electronics and Communication at IIIT Una, Himachal Pradesh.
 - Machine Learning Enthusiast and CP Novice.
 - **Languages**: Python, C++, C 
 - **Machine Learning**: Use TensorFlow and Keras to train my models.
